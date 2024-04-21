@@ -18,7 +18,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${inter.variable} ${manrope.variable}`}>{children}</body>
+      <body className={`${inter.variable} ${manrope.variable} font-manrope bg-light dark: bg-dark`}>{children}</body>
     </html>
   );
 }
