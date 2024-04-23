@@ -8,7 +8,7 @@ const manrope = Manrope({ subsets: ["latin"], display: "swap", variable: "--font
 
 export const metadata: Metadata = {
   title: "Ricelient",
-  description: "Discovering Resilient Rice Farming Practices",
+  description: "Resilient Heirloom Black Rice Farming",
 };
 
 export default function RootLayout({
